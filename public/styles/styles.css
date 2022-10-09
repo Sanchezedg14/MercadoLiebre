@@ -230,7 +230,7 @@ footer section i:hover {
     }
 
     .main-navbar {
-        display: none;
+        display:inline;
     }
 
     header img {
